@@ -1,5 +1,11 @@
-Hey
+Hi
 * greeting
+
+< 👋 Mornin'
+* greeting
+
+Start Standup
+* begin_standup
 
 < What did you work on yesterday?
 * request_update/yesterday

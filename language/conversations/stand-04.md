@@ -1,31 +1,26 @@
----
-title: stand-01
-timestamp: 2017-01-25T18:33:39.391286016-08:00
----
-
-Hey
+Yo
 * greeting
 
-< 👋 Howdy
+< 👋 Mornin'
 * greeting
 
-Standup
+stand
 * begin_standup
 
 < What did you work on yesterday?
 * request_update/yesterday
 
-I worked on Assist and some other docs things
+Stuff that I cannot believe I had to work on
 * provide_update/yesterday
 
 < And what are you going to work on today?
 * request_update/today
 
-Some other things, this and that
+You know, things and stuff
 * provide_update/today
 
 < Is there anything blocking you?
 * request_update/blockers
 
-No I'm all set for the day!
+Na
 * provide_update/blockers
